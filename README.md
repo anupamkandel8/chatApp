@@ -1,17 +1,15 @@
 # ✨ Full Stack Realtime Chat App ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+## Live Demo: [Guff, the Chat App](https://chatapp-tsvv.onrender.com/)
 
-Highlights:
+## Highlights:
 
-- 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
-- 👾 Real-time messaging with Socket.io
-- 🚀 Online user status
-- 👌 Global state management with Zustand
-- 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
-- ⏳ And much more!
+- **Tech Stack:** MERN (MongoDB, Express, React, Node.js), Socket.io, TailwindCSS, DaisyUI
+- **Authentication & Authorization:** Secure user authentication and authorization using JWT
+- **Real-Time Messaging:** Instant messaging powered by Socket.io
+- **Online User Status:** Live tracking of user presence
+- **State Management:** Global state handled with Zustand
+- **Robust Error Handling:** Comprehensive error management on both server and client sides
 
 ### Setup .env file
 
